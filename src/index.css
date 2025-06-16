@@ -68,7 +68,7 @@ a {
   }
 }
 
-@media screen and (max-width:15000px){
+@media screen and (max-width:800px){
   .copyright{
     display:none !important;
   }
